@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+psycopg2-binary
+google-genai
+python-dotenv
+requests
+pydantic
