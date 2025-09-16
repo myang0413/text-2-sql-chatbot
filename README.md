@@ -32,10 +32,6 @@ Spider 데이터셋을 활용한 자연어-SQL 변환 챗봇 시스템입니다.
 # 의존성 설치
 pip install -r requirements.txt
 
-# 환경 변수 설정 (.env 파일)
-DATABASE_URL=your_supabase_postgresql_url
-GEMINI_API_KEY=your_gemini_api_key
-```
 
 #### 2. 데이터베이스 초기화
 ```bash
@@ -185,10 +181,6 @@ A natural language to SQL chatbot system using the Spider dataset. It converts n
 # Install dependencies
 pip install -r requirements.txt
 
-# Set environment variables (.env file)
-DATABASE_URL=your_supabase_postgresql_url
-GEMINI_API_KEY=your_gemini_api_key
-```
 
 #### 2. Initialize Database
 ```bash
