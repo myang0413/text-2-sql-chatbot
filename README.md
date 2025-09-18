@@ -2,6 +2,8 @@
 
 [한국어](#한국어) | [English](#english)
 
+데모 비디오 링크/Demo Video Link: https://www.youtube.com/watch?v=ic68Z8Q7xU4
+
 ---
 
 ## 한국어
